@@ -1,2 +1,2 @@
-# CROP-PREDCTION
-Based on AI technology monitoring crop
+# CROP-MONITORING SYSTEM
+Based on AI technology predicting crop
